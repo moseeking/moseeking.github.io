@@ -1018,18 +1018,18 @@
     min-height: 5.125em;
     max-height: 15em;
     border-radius: 5px;
-    border: 1px solid var(--c-text);
+    /* border: 1px solid var(--c-text); */
     font-size: 0.875em;
     word-wrap: break-word;
     resize: vertical;
-    background-color: var(--c-bg);
+    /* background-color: var(--c-bg); */
     outline: none;
     -webkit-transition: all 0.25s ease;
     transition: all 0.25s ease;
   }
-  .gt-container .gt-header-textarea:hover {
+  /* .gt-container .gt-header-textarea:hover {
     background-color: var(--c-bg);
-  }
+  } */
   .gt-container .gt-header-preview {
     padding: 0.75em;
     border-radius: 5px;
