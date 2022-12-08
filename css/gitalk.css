@@ -1018,7 +1018,7 @@
     min-height: 5.125em;
     max-height: 15em;
     border-radius: 5px;
-    border: 1px solid var(--c-border);
+    border: 1px solid var(--c--border);
     font-size: 0.875em;
     word-wrap: break-word;
     resize: vertical;
@@ -1028,7 +1028,7 @@
     transition: all 0.25s ease;
   }
   .gt-container .gt-header-textarea:hover {
-    background-color: #fbfbfb;
+    background-color: var(--c-bg);
   }
   .gt-container .gt-header-preview {
     padding: 0.75em;
